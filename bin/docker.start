@@ -1,0 +1,1 @@
+sudo docker run -itP --expose 8080 --privileged=true desavera/b2wdev-mvera:r17-pio /bin/bash
